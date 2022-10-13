@@ -12,7 +12,7 @@ Berdasarkan permasalahan tersebut diperlukan sebuah alat untuk meprediksi harga 
 - Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
 - Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
   
-  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
+  Format Referensi: [[Judul Referensi](https://scholar.google.com/) ](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00601-7)
 
 ## Business Understanding
 
