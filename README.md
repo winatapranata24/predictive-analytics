@@ -12,7 +12,10 @@ Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek
 
 ## Business Understanding
 
-Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
+Latar Belakang
+Cryptocurrency adalah mata uang digital, yang merupakan bentuk pembayaran alternatif yang dibuat menggunakan algoritma enkripsi. Penggunaan teknologi enkripsi berarti bahwa cryptocurrency berfungsi baik sebagai mata uang maupun sebagai sistem akuntansi virtual. Namun perubahan nilai mata uang ini selalu mengalami kenaikan dan penurunan. Sehingga membuat cemas para investor dalam memilih aset mana yang mereka akan beli. Salah satu contohnya Binance Coin. Binance Coin (BNB) diluncurkan pada Juli 2017, melalui sebuah program Initial Coin Offering (ICO). Pada saat itu, seluruh Binnace Coin (BNB) yang berjumlah 100 juta untuk ICO dijual dengan harga awal 15 sen untuk per tokennya. Selama ICO berlangsung, Binance berhasil mengumpulkan total 15 juta dolar AS atau setara Rp215 miliar (asumsi kurs Rp14.336).Pada tahun 2019, Binance Coin memiliki pertumbuhan yang cukup positif. Walaupun BNB sempat mengalami pertumbuhan yang lambat, BNB berhasil kembali mendapat dorongan besar dari proyek peluncuran IEO-nya. Tahun 2019, ditutup dengan keuntungan lebih dari 150 persen. Memulai tahun 2021, harga Binance Coin (BNB) sempat berada dinilai Rp551 ribu dengan total trading volume Rp5,91 triliun. Pada tahun yang sama, BNB mengalami lonjakan yang cukup tinggi, di mana harganya berhasil mencapai Rp9,8 juta. Kenaikan yang terjadi di bulan Mei tersebut merupakan harga Binance Coin (BNB) tertinggi di tahun 2021.
+
+Berdasarkan permasalahan tersebut diperlukan sebuah alat untuk meprediksi harga cryptocurrency atau Binance Coin di masa yang akan datang. Dengan machine learning hal tersebut bisa terwujud.
 
 Bagian laporan ini mencakup:
 
