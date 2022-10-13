@@ -4,9 +4,9 @@
 
 Latar Belakang
 
-Sebagai jenis mata uang baru yang diperkenalkan di milenium baru, cryptocurrency telah membentuk ekosistemnya dan menarik banyak orang untuk menggunakan dan berinvestasi di dalamnya. Namun, cryptocurrency sangat dinamis dan fluktuatif, sehingga sulit untuk memprediksi nilai masa depan mereka.
+Sebagai jenis mata uang baru yang diperkenalkan di milenium baru, cryptocurrency telah membentuk ekosistemnya dan menarik banyak orang untuk menggunakan dan berinvestasi di dalamnya. Namun, cryptocurrency sangat dinamis dan fluktuatif, sehingga sulit untuk memprediksi nilai masa depan mereka. salah satunya mata uang Binance coin yang mengalami perubahan setiap tahunya.
 
-Berdasarkan permasalahan tersebut diperlukan sebuah alat untuk meprediksi harga cryptocurrency atau Binance Coin di masa yang akan datang. Dengan machine learning hal tersebut bisa terwujud.
+Berdasarkan permasalahan tersebut diperlukan sebuah penelitian mengenai prediksi harga Binance coin menggunakan machine learning agar dapat memprediksi harga Binance coin di masa mendatang, sehingga dapat mengurangi kerugian akibat mata uanag Binance coin yang tidak stabil.
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
