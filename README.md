@@ -12,7 +12,7 @@ Berdasarkan permasalahan tersebut diperlukan sebuah alat untuk meprediksi harga 
 - Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
 - Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
   
-  Format Referensi: [Multivariate cryptocurrency prediction: comparative analysis of three recurrent neural networks approaches](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00601-7)
+Referensi: [Multivariate cryptocurrency prediction: comparative analysis of three recurrent neural networks approaches](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00601-7)
 
 ## Business Understanding
 
