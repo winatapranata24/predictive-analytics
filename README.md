@@ -63,7 +63,7 @@ K-nearest neighbor (kNN) adalah algoritma pembelajaran mesin supervised yang dap
 
 # Random Forest
 Random Forest adalah Algoritma Pembelajaran Mesin Supervised yang digunakan secara luas dalam masalah Klasifikasi dan Regresi. Itu membangun pohon keputusan pada sampel yang berbeda dan mengambil suara mayoritas mereka untuk klasifikasi dan rata-rata dalam kasus regresi. Parameter yang digunakan diantaranya:
-* n_estimator: jumlah trees (pohon) di forest. Di sini kita set n_estimator=50.
+* n_estimator: jumlah trees (pohon) di forest. Di sini kita set n_estimator=6.
 * max_depth: kedalaman atau panjang pohon. Ia merupakan ukuran seberapa banyak pohon dapat membelah (splitting) untuk membagi setiap node ke dalam jumlah pengamatan yang diinginkan.
 
 
