@@ -73,6 +73,7 @@ Metrik evaluasi yang digunakan yaitu mean squared error (MSE) yang mana metrik i
 ![image](https://user-images.githubusercontent.com/62703894/196490785-5fb24087-efb7-4668-8acb-d31e52cd983e.png)
 
 Keterangan:
+
 At = Nilai Aktual permintaan
 
 Ft = Nilai hasil prediksi
