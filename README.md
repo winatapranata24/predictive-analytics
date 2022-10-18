@@ -74,7 +74,9 @@ Metrik evaluasi yang digunakan yaitu mean squared error (MSE) yang mana metrik i
 
 Keterangan:
 At = Nilai Aktual permintaan
+
 Ft = Nilai hasil prediksi
+
 n = banyaknya data
 
 Visualisasi metrik mean squared error
