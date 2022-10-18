@@ -2,21 +2,17 @@
 
 ## Domain Proyek
 
-Latar Belakang
-
-Sebagai jenis mata uang baru yang diperkenalkan di milenium baru, cryptocurrency telah membentuk ekosistemnya dan menarik banyak orang untuk menggunakan dan berinvestasi di dalamnya. Namun, cryptocurrency sangat dinamis dan fluktuatif, sehingga sulit untuk memprediksi nilai masa depan mereka. salah satunya mata uang Binance coin yang mengalami perubahan setiap tahunya.
-
-Berdasarkan permasalahan tersebut diperlukan sebuah penelitian mengenai prediksi harga Binance coin menggunakan machine learning agar dapat memprediksi harga Binance coin di masa mendatang, sehingga dapat mengurangi kerugian akibat mata uanag Binance coin yang tidak stabil.
+Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
 - Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
   
-Referensi: [Multivariate cryptocurrency prediction: comparative analysis of three recurrent neural networks approaches](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00601-7)
+  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
 
 ## Business Understanding
 
-
+Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
 
 Bagian laporan ini mencakup:
 
