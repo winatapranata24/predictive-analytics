@@ -1,25 +1,24 @@
 # Laporan Proyek Machine Learning - Winata Pranata
 
 ## Domain Proyek
-*Cryptocurrency* sudah ada sekitar sepuluh tahun lalu dan kini telah menjadi cukup populer, tersebar luas , serta dilingkupi juga atas banyak kontroversi dari perkembangan yang inovatif, Cryptocurrency adalah mata uang digital dimana transaksi dapat dilakukan dengan transaksi online, tidak seperti mata uang umum Cryptocurrency dirancang beradasarkan Kriptografi, Bitcoin adalah salah satu jenisnya. Karakteristik unik Bitcoin adalah fluktuasi harga harian dan selalu berubah setiap hari. Oleh karena itu dilakukan sebuah penelitian harga bitcoin dengan menggunakan machine learning, yang mana dengan adanya machine learning ini diharapkan dapat memprediksi harga bitcoin dimasa mendatang, Sehingga dapat mengurangi resiko kerugian.
+*Cryptocurrency* sudah ada sekitar sepuluh tahun lalu dan kini telah menjadi cukup populer, tersebar luas , serta dilingkupi juga atas banyak kontroversi dari perkembangan yang inovatif, *Cryptocurrency* adalah mata uang digital dimana transaksi dapat dilakukan dengan transaksi online, tidak seperti mata uang umum *Cryptocurrency* dirancang beradasarkan Kriptografi, *Bitcoin* adalah salah satu jenisnya. Karakteristik unik *Bitcoin* adalah fluktuasi harga harian dan selalu berubah setiap hari. Oleh karena itu dilakukan sebuah penelitian harga *bitcoin* dengan menggunakan *machine learning*, yang mana dengan adanya *machine learning* ini diharapkan dapat memprediksi harga *bitcoin* dimasa mendatang, Sehingga dapat mengurangi resiko kerugian.
 
 ## Business Understanding
 
 ### Problem Statements
 
 Berdasarkan latar belakang diatas, permasalahan yang akan diselesaikan yaitu:
-- Bagaimana cara memproses data harga mata uang Bitcoin sehingga dapat di latih dengan baik oleh model?
-- Bagaimana menentukan model machine learning yang dapat memprediksi harga bitcoin dengan baik di masa yang akan datang?
+- Bagaimana cara memproses data harga mata uang *Bitcoin* sehingga dapat di latih dengan baik oleh model?
+- Bagaimana menentukan model *machine learning* yang dapat memprediksi harga *bitcoin* dengan baik di masa yang akan datang?
 
 ### Goals
 
 Tujuan dibuatnya proyek ini adalah sebagai berikut:
-- Menghasilkan data harga bitcoin yang dapat digunakan dengan baik untuk model machine learning
-- Menentukan model machine learning yang paling sesuai
-- Dapat memprediksi harga bitcoin di masa mendatang
+- Menghasilkan data harga *bitcoin* yang dapat digunakan dengan baik untuk model *machine learning*
+- Menentukan model *machine learning* yang paling sesuai yang dapat digunakan dengan baik di masa mendatang
 
 ## Data Understanding
-Dataset yang digunakan pada proyek ini merupakan dataset riwayat harga mata uang bitcoin yang diperoleh dari website kaggle: [Cryptocurrency Bitcoin Historical Prices](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv).
+Dataset yang digunakan pada proyek ini merupakan dataset riwayat harga mata uang *bitcoin* yang diperoleh dari website kaggle: [Cryptocurrency Bitcoin Historical Prices](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv).
 
 Informasi dari data sebagai berikut:
 
@@ -45,8 +44,22 @@ Informasi dari data sebagai berikut:
 ## Data Preparation
 Teknik data preparation yang dilakukan:
 * Menghapus data yang tidak diperlukan dan merubah nama column
+
+  Menangani Oulier
+  
+  Jika kita lihat visualisai outlier dibawah beberapa data numeric memiliki data outlier, untuk mengatasi outlier tersebut disini menggunakan teknik IQR Method yaitu dengan menghapus data yang berada diluar interquartile range. Interquartile merupakan range diantara kuartil pertama(25%) dan kuartil ketiga(75%).
+  
+  ![image](https://user-images.githubusercontent.com/62703894/196564317-27c0fb5e-c250-44c2-9000-37a0cb1312dd.png)
+  
 * Melakukan pembagian dataset
+
+  ![image](https://user-images.githubusercontent.com/62703894/196565164-60390902-8c69-409c-9324-c438ea061457.png)
+  
+  Pada matriks korelasi di atas dapat disimpulkan bahwa kebanyakan variabel memiliki keterikatan dan korelasi yang kuat antar variabel lainnya, dimana nilai korelasi antar variabel bernilai lebih dari 0.8 atau mendekati 1.
+
+  
 * Normalisasi data
+  Normalisasi data menggunakan library MinMaxScaler. MinMaxScaler mentransformasikan fitur dengan menskalakan setiap fitur ke rentang tertentu. Library ini menskalakan dan mentransformasikan setiap fitur secara individual sehingga berada dalam rentang yang diberikan pada set pelatihan, pada library ini memiliki range default antara 0 dan 1.
 
 ## Modeling
 
