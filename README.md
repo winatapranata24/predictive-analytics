@@ -16,7 +16,7 @@ Berdasarkan latar belakang diatas, permasalahan yang akan diselesaikan yaitu:
 Tujuan dibuatnya proyek ini adalah sebagai berikut:
 - Menghasilkan data harga bitcoin yang dapat digunakan dengan baik untuk model machine learning
 - Menentukan model machine learning yang paling sesuai
-- Dapat memprediski harga bitcoin di masa mendatang
+- Dapat memprediksi harga bitcoin di masa mendatang
 
 ## Data Understanding
 Dataset yang digunakan pada proyek ini merupakan dataset riwayat harga mata uang bitcoin yang diperoleh dari website kaggle: [Cryptocurrency Bitcoin Historical Prices](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv).
