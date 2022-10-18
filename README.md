@@ -1,7 +1,7 @@
 # Laporan Proyek Machine Learning - Winata Pranata
 
 ## Domain Proyek
-Cryptocurrency sudah ada sekitar sepuluh tahun lalu dan kini telah menjadi cukup populer, tersebar luas , serta dilingkupi juga atas banyak kontroversi dari perkembangan yang inovatif, Cryptocurrency adalah mata uang digital dimana transaksi dapat dilakukan dengan transaksi online, tidak seperti mata uang umum Cryptocurrency dirancang beradasarkan Kriptografi, Bitcoin adalah salah satu jenisnya. Karakteristik unik Bitcoin adalah fluktuasi harga harian dan selalu berubah setiap hari. Oleh karena itu dilakukan sebuah penelitian harga bitcoin dengan menggunakan machine learning, yang mana dengan adanya machine learning ini diharapkan dapat memprediksi harga bitcoin dimasa mendatang, Sehingga dapat mengurangi resiko kerugian.
+*Cryptocurrency* sudah ada sekitar sepuluh tahun lalu dan kini telah menjadi cukup populer, tersebar luas , serta dilingkupi juga atas banyak kontroversi dari perkembangan yang inovatif, Cryptocurrency adalah mata uang digital dimana transaksi dapat dilakukan dengan transaksi online, tidak seperti mata uang umum Cryptocurrency dirancang beradasarkan Kriptografi, Bitcoin adalah salah satu jenisnya. Karakteristik unik Bitcoin adalah fluktuasi harga harian dan selalu berubah setiap hari. Oleh karena itu dilakukan sebuah penelitian harga bitcoin dengan menggunakan machine learning, yang mana dengan adanya machine learning ini diharapkan dapat memprediksi harga bitcoin dimasa mendatang, Sehingga dapat mengurangi resiko kerugian.
 
 ## Business Understanding
 
