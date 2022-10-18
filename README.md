@@ -1,43 +1,22 @@
-# Laporan Proyek Machine Learning - Nama Anda
+# Laporan Proyek Machine Learning - Winata Pranata
 
 ## Domain Proyek
-
-Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
-
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
-- Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
-  
-  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
+Cryptocurrency sudah ada sekitar sepuluh tahun lalu dan kini telah menjadi cukup populer, tersebar luas , serta dilingkupi juga atas banyak kontroversi dari perkembangan yang inovatif, Cryptocurrency adalah mata uang digital dimana transaksi dapat dilakukan dengan transaksi online, tidak seperti mata uang umum Cryptocurrency dirancang beradasarkan Kriptografi, Bitcoin adalah salah satu jenisnya. Karakteristik unik Bitcoin adalah fluktuasi harga harian dan selalu berubah setiap hari. Oleh karena itu dilakukan sebuah penelitian harga bitcoin dengan menggunakan machine learning, yang mana dengan adanya machine learning ini diharapkan dapat memprediksi harga bitcoin dimasa mendatang, Sehingga dapat mengurangi resiko kerugian.
 
 ## Business Understanding
 
-Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
-
-Bagian laporan ini mencakup:
-
 ### Problem Statements
 
-Menjelaskan pernyataan masalah latar belakang:
-- Pernyataan Masalah 1
-- Pernyataan Masalah 2
-- Pernyataan Masalah n
+Berdasarkan latar belakang diatas, permasalahan yang akan diselesaikan yaitu:
+- Bagaimana cara memproses data harga mata uang Bitcoin sehingga dapat di latih dengan baik oleh model?
+- Bagaimana menentukan model machine learning yang dapat memprediksi harga bitcoin dengan baik di masa yang akan datang?
 
 ### Goals
 
-Menjelaskan tujuan dari pernyataan masalah:
-- Jawaban pernyataan masalah 1
-- Jawaban pernyataan masalah 2
-- Jawaban pernyataan masalah n
-
-Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pernyataan masalah dan juga goals yang diinginkan.
-
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Menambahkan bagian “Solution Statement” yang menguraikan cara untuk meraih goals. Bagian ini dibuat dengan ketentuan sebagai berikut: 
-
-    ### Solution statements
-    - Mengajukan 2 atau lebih solution statement. Misalnya, menggunakan dua atau lebih algoritma untuk mencapai solusi yang diinginkan atau melakukan improvement pada baseline model dengan hyperparameter tuning.
-    - Solusi yang diberikan harus dapat terukur dengan metrik evaluasi.
+Tujuan dibuatnya proyek ini adalah sebagai berikut:
+- Menghasilkan data harga bitcoin yang dapat digunakan dengan baik untuk model machine learning
+- Menentukan model machine learning yang paling sesuai
+- Dapat memprediski harga bitcoin di masa mendatang
 
 ## Data Understanding
 Paragraf awal bagian ini menjelaskan informasi mengenai data yang Anda gunakan dalam proyek. Sertakan juga sumber atau tautan untuk mengunduh dataset. Contoh: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data).
