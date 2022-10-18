@@ -21,13 +21,28 @@ Tujuan dibuatnya proyek ini adalah sebagai berikut:
 ## Data Understanding
 Dataset yang digunakan pada proyek ini merupakan dataset riwayat harga mata uang bitcoin yang diperoleh dari website kaggle: [Cryptocurrency Bitcoin Historical Prices](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory?select=coin_Bitcoin.csv).
 
-### Variabel-variabel pada Restaurant UCI dataset adalah sebagai berikut:
-- accepts : merupakan jenis pembayaran yang diterima pada restoran tertentu.
-- cuisine : merupakan jenis masakan yang disajikan pada restoran.
-- dst
+Informasi dari data sebagai berikut:
 
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Melakukan beberapa tahapan yang diperlukan untuk memahami data, contohnya teknik visualisasi data atau exploratory data analysis.
+* Format dataset yaitu CSV (Comma-Seperated Values)
+* Jumlah kolom data yang terdapat didalam dataset berjumlah 10 kolom, antara lain: _SNo, Name, Symbol, Date, High, Low, Open, Close, Volume, Marketcap_.
+* Terdapat 2991 jumlah sample yang terdapat didalam dataset.
+* Terdapat 6 kolom data yang memiliki tipe data Float yaitu (_High, Low, Open, Close, Volume, Marketcap_), 
+* Terdapat 1 kolom data yang memiliki tipe data Integer yaitu (_SNo_)
+* Terdapat 2 kolom data yang memiliki tipe data Object atau String yaitu (_Name, Symbol_)
+* Tidak terdapat _missing value_ pada dataset
+### **Variabel-variabel pada dataset adalah sebagai berikut:**
+
+* Name: Nama mata uang kripto
+* Symbol: Simbol mata uang kripto
+* Date: Tanggal pencatatan data
+* High : Harga tertinggi pada hari tertentu
+* Low : Harga terendah pada hari tertentu
+* Open : Harga pembukaan pada hari tertentu
+* Close : Harga penutupan pada hari tertentu
+* Volume : Volume transaksi pada hari tertentu
+* Mastercap : Kapitalisasi pasar dalam USD
+
+*Menangani Oulier*
 
 ## Data Preparation
 Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dilakukan. Teknik yang digunakan pada notebook dan laporan harus berurutan.
