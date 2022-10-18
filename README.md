@@ -81,6 +81,7 @@ Ft = Nilai hasil prediksi
 n = banyaknya data
 
 Visualisasi metrik mean squared error
+
 ![image](https://user-images.githubusercontent.com/62703894/196492062-9afbf587-29d5-4ffb-8055-762e84ce6e2b.png)
 
 Dapat kita lihat dari gambar diatas bahwa MSE pada model Random Forest merupakan MSE yang paling rendah dari model yang lain
