@@ -42,8 +42,6 @@ Informasi dari data sebagai berikut:
 * Volume : Volume transaksi pada hari tertentu
 * Mastercap : Kapitalisasi pasar dalam USD
 
-*Menangani Oulier*
-
 ## Data Preparation
 Pada bagian ini Anda menerapkan dan menyebutkan teknik data preparation yang dilakukan. Teknik yang digunakan pada notebook dan laporan harus berurutan.
 
