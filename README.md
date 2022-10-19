@@ -52,6 +52,7 @@ Teknik data preparation yang dilakukan:
   ![image](https://user-images.githubusercontent.com/62703894/196564317-27c0fb5e-c250-44c2-9000-37a0cb1312dd.png)
   
 * Melakukan pembagian dataset
+  Rasio perbandingan dataset pada proyek ini yaitu dengan membaginya menjadi 80% data training dan 20% data testing.
 
   ![image](https://user-images.githubusercontent.com/62703894/196565164-60390902-8c69-409c-9324-c438ea061457.png)
   
